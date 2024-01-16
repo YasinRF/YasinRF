@@ -16,4 +16,4 @@ Soy estudiante de desarrollo de aplicaciones web, y mi interés principal se cen
 
 - 📫 Mi correo electrónico (Gmail) **yasinrehla@gmail.com**
 
-<div style="text-align:center">![cartoon-629-256-unscreen](https://github.com/YasinRF/YasinRF/assets/97893529/fb34bc27-0adb-4f2c-9fad-7d7439bb508d)</div>
+<div align="center">![cartoon-629-256-unscreen](https://github.com/YasinRF/YasinRF/assets/97893529/fb34bc27-0adb-4f2c-9fad-7d7439bb508d)</div>
