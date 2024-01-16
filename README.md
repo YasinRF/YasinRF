@@ -1,5 +1,4 @@
 <h1 align="center">Hola! 👋, soy Yasin Rehla.</h1>
- <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://cdn.pixabay.com/animation/2022/09/07/08/55/08-55-43-_512.gif)" width="28">
 <h3 align="center"> --- Acerca de mí ---
   
   <br><br>
