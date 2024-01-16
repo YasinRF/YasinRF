@@ -1,6 +1,8 @@
 <h1 align="center">Hola! 👋, soy Yasin Rehla.</h1>
 
 ![cartoon-629-256-unscreen](https://github.com/YasinRF/YasinRF/assets/97893529/fb34bc27-0adb-4f2c-9fad-7d7439bb508d)
+[59e831bb34c54a46b7e2df8eb0a4262f.webm](https://github.com/YasinRF/YasinRF/assets/97893529/10bc0ade-8b81-450a-8969-874d09405e6c)
+
 
 <h3 align="center"> --- Acerca de mí ---
   
