@@ -1,5 +1,7 @@
 <h1 align="center">Hola! 👋, soy Yasin Rehla.</h1>
+ <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://cdn.pixabay.com/animation/2022/09/07/08/55/08-55-43-_512.gif)" width="28">
 <h3 align="center"> --- Acerca de mí ---
+  
   <br><br>
 Soy estudiante de desarrollo de aplicaciones web, y mi interés principal se centra en el crecimiento personal dentro del mundo de la programación. Me encanta aprender nuevas tecnologías y enfrentarme a desafíos que me permitan mejorar mis habilidades como desarrollador.</h3>
 <hr>
