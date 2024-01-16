@@ -2,6 +2,8 @@
 <h3 align="center"> --- Acerca de mí ---
   
   <br><br>
+  ![cartoon-629_256](https://github.com/YasinRF/YasinRF/assets/97893529/d7ad8a38-5aed-4907-88b2-6480104a644b)
+
 Soy estudiante de desarrollo de aplicaciones web, y mi interés principal se centra en el crecimiento personal dentro del mundo de la programación. Me encanta aprender nuevas tecnologías y enfrentarme a desafíos que me permitan mejorar mis habilidades como desarrollador.</h3>
 <hr>
 <h3 align="left">Conecta conmigo:</h3>
