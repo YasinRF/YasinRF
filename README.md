@@ -8,7 +8,7 @@ Soy estudiante de desarrollo de aplicaciones web, y mi interés principal se cen
 <hr>
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yasin-rehla-1a73782a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yasin-rehla-1a73782a9/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yasin-rehla-1a73782a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yasin-rehla-1a73782a9/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y conocimientos:</h3>
