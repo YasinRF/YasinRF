@@ -1,10 +1,10 @@
 <h1 align="center">Hola! 👋, soy Yasin Rehla.</h1>
 
-<h3 align="center"> --- Acerca de mí ---
-  
-  <br>
+<img align="right" alt="Coding" width="400" src="https://s6.ezgif.com/tmp/ezgif-6-0ec442e169.gif">
 
-Soy estudiante de desarrollo de aplicaciones web, y mi interés principal se centra en el crecimiento personal dentro del mundo de la programación. Me encanta aprender nuevas tecnologías y enfrentarme a desafíos que me permitan mejorar mis habilidades como desarrollador.</h3>
+<h2 align="center"> --- Acerca de mí ---</h2>
+
+<h3> Soy estudiante de desarrollo de aplicaciones web, y mi interés principal se centra en el crecimiento personal dentro del mundo de la programación. Me encanta aprender nuevas tecnologías y enfrentarme a desafíos que me permitan mejorar mis habilidades como desarrollador.</h3>
 <hr>
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
@@ -16,4 +16,4 @@ Soy estudiante de desarrollo de aplicaciones web, y mi interés principal se cen
 
 - 📫 Mi correo electrónico (Gmail) **yasinrehla@gmail.com**
 
-![cartoon-629-256-unscreen](https://github.com/YasinRF/YasinRF/assets/97893529/fb34bc27-0adb-4f2c-9fad-7d7439bb508d)
+<!-- ![cartoon-629-256-unscreen](https://github.com/YasinRF/YasinRF/assets/97893529/fb34bc27-0adb-4f2c-9fad-7d7439bb508d) -->
