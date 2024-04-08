@@ -1,6 +1,6 @@
 <h1 align="center">Hola! 👋, soy Yasin Rehla.</h1>
 
-<img align="right" alt="Coding" width="400" src="https://s6.ezgif.com/tmp/ezgif-6-0ec442e169.gif">
+<img align="right" alt="Coding" width="400" src="[https://s6.ezgif.com/tmp/ezgif-6-0ec442e169.gif](https://si.wsj.net/public/resources/images/OG-DV513_202002_M_20200221131814.gif)">
 
 <h2 align="center"> --- Acerca de mí ---</h2>
 
