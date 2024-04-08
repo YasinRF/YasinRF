@@ -2,7 +2,7 @@
 
 <h2 align="center"> --- Acerca de mí ---</h2>
 
-<h3> Soy estudiante de desarrollo de aplicaciones web, y mi interés principal se centra en el crecimiento personal dentro del mundo de la programación. Me encanta aprender nuevas tecnologías y enfrentarme a desafíos que me permitan mejorar mis habilidades como desarrollador.</h3>
+<h3> Hola mundo!, soy estudiante de desarrollo de aplicaciones web, y mi interés principal se centra en el crecimiento personal dentro del mundo de la programación. Me encanta aprender nuevas tecnologías y enfrentarme a desafíos que me permitan mejorar mis habilidades como desarrollador.</h3>
 <hr>
 
 <img align="right" alt="Coding" width="400" src="https://si.wsj.net/public/resources/images/OG-DV513_202002_M_20200221131814.gif">
