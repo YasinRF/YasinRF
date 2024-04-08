@@ -1,11 +1,12 @@
 <h1 align="center">Hola! 👋, soy Yasin Rehla.</h1>
 
-<img align="right" alt="Coding" width="400" src="[https://s6.ezgif.com/tmp/ezgif-6-0ec442e169.gif](https://si.wsj.net/public/resources/images/OG-DV513_202002_M_20200221131814.gif)">
-
 <h2 align="center"> --- Acerca de mí ---</h2>
 
 <h3> Soy estudiante de desarrollo de aplicaciones web, y mi interés principal se centra en el crecimiento personal dentro del mundo de la programación. Me encanta aprender nuevas tecnologías y enfrentarme a desafíos que me permitan mejorar mis habilidades como desarrollador.</h3>
 <hr>
+
+<img align="right" alt="Coding" width="400" src="https://si.wsj.net/public/resources/images/OG-DV513_202002_M_20200221131814.gif">
+
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yasin-rehla-1a73782a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yasin-rehla-1a73782a9/" height="30" width="40" /></a>
